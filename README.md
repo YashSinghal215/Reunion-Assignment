@@ -32,5 +32,5 @@ Unfollow - https://reunion-demo.onrender.com/api/unfollow/63ad3f4cb37ee55ffb4019
 Individual - https://reunion-demo.onrender.com/api/posts/63c42b0ae2c0a3bbc721339e <br>
 All posts of the user - https://reunion-demo.onrender.com/api/all_posts
 
-![post_detail](/screenshots/post_detail.png)
+![post_detail](/screenshots/post_details.png)
 ![all_posts](/screenshots/all_posts.png)
