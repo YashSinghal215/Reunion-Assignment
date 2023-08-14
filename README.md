@@ -9,27 +9,27 @@ https://reunion-demo.onrender.com/api/authenticate
 
 ## Create, Delete Post
 Create - https://reunion-demo.onrender.com/api/posts/ <br>
-Delete - https://reunion-demo.onrender.com/api/posts/63ad3f4cb37ee55ffb401963
+Delete - https://reunion-demo.onrender.com/api/posts/64da64f549245acfaaf86712
 
 ![create_post](/screenshots/create_post.png)
 ![delete_post](/screenshots/delete_post.png)
 
 ## Like, Unlike, Comment
-Like - https://reunion-demo.onrender.com/api/like/63ad34cb9d36e68b1e990376 <br>
-Unlike - https://reunion-demo.onrender.com/api/unlike/63ad34cb9d36e68b1e990376 <br>
-Comment - https://reunion-demo.onrender.com/api/comment/63c42b0ae2c0a3bbc721339e
+Like - https://reunion-demo.onrender.com/api/like/64da64f549245acfaaf86712 <br>
+Unlike - https://reunion-demo.onrender.com/api/unlike/64da64f549245acfaaf86712 <br>
+Comment - https://reunion-demo.onrender.com/api/comment/64da64f549245acfaaf86712
 
 ![Like](/screenshots/like.png)
 ![unlike](/screenshots/unlike.png)
 ![comment](/screenshots/comment.png)
 
 ## Follow, Unfollow
-Follow - https://reunion-demo.onrender.com/api/follow/63ad3f4cb37ee55ffb401963 (Following user 3 as Id provided is of user 3) <br>
-Unfollow - https://reunion-demo.onrender.com/api/unfollow/63ad3f4cb37ee55ffb401963
+Follow - https://reunion-demo.onrender.com/api/follow/64da4271991383b66f76700f (Following user 2 as Id provided is of user 2) <br>
+Unfollow - https://reunion-demo.onrender.com/api/unfollow/64da4271991383b66f76700f
 
 
 ## Post Detail
-Individual - https://reunion-demo.onrender.com/api/posts/63c42b0ae2c0a3bbc721339e <br>
+Individual - https://reunion-demo.onrender.com/api/posts/64da64f549245acfaaf86712 <br>
 All posts of the user - https://reunion-demo.onrender.com/api/all_posts
 
 ![post_detail](/screenshots/post_details.png)
