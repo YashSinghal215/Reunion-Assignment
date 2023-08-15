@@ -15,9 +15,9 @@ Delete - https://reunion-demo.onrender.com/api/posts/64da64f549245acfaaf86712
 ![delete_post](/screenshots/delete_post.png)
 
 ## Like, Unlike, Comment
-Like - https://reunion-demo.onrender.com/api/like/64da64f549245acfaaf86712 <br>
-Unlike - https://reunion-demo.onrender.com/api/unlike/64da64f549245acfaaf86712 <br>
-Comment - https://reunion-demo.onrender.com/api/comment/64da64f549245acfaaf86712
+Like - https://reunion-demo.onrender.com/api/like/64db5c702191b3cce1dc4108<br>
+Unlike - https://reunion-demo.onrender.com/api/unlike/64db5c702191b3cce1dc4108 <br>
+Comment - https://reunion-demo.onrender.com/api/comment/64db5c702191b3cce1dc4108
 
 ![Like](/screenshots/like.png)
 ![unlike](/screenshots/unlike.png)
@@ -29,7 +29,7 @@ Unfollow - https://reunion-demo.onrender.com/api/unfollow/64da4271991383b66f7670
 
 
 ## Post Detail
-Individual - https://reunion-demo.onrender.com/api/posts/64da64f549245acfaaf86712 <br>
+Individual - https://reunion-demo.onrender.com/api/posts/64db5c702191b3cce1dc4108 <br>
 All posts of the user - https://reunion-demo.onrender.com/api/all_posts
 
 ![post_detail](/screenshots/post_details.png)
